@@ -1,0 +1,109 @@
+/* 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+/* body {
+    background-color: #34D399;
+}
+div {
+    box-shadow: 3px 3px 5px 6px #ccc;
+} 
+body, html {
+    height: 100%;
+    margin: 0;
+    background: rgba(248, 0, 0, 0.456); /* fallback for old browsers */
+    /* 
+    background: -webkit-linear-gradient(to left, red , rgb(215, 215, 215)); /* Chrome 10-25, Safari 5.1-6 */
+    /* background: linear-gradient(to left, red , blue); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /* overflow: auto;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    /* other styles... */
+    /* overflow: auto;
+}
+*/
+/* Navigation Bar */
+.navbar.bg-light {
+    background-color: #6B3074; /*Purple*/
+  }
+  
+  .navbar-light .navbar-brand {
+    font-family: 'Arial', sans-serif;
+    color: #FFC93C; /*Yellow*/
+  }
+  
+  .navbar-light .navbar-brand:hover {
+    color: #FF5E5B; /*Red*/
+    text-shadow: 1px 1px 2px #888;
+  }
+  
+  .nav-link {
+    font-family: 'Arial', sans-serif;
+    color: #FFC93C; /*Yellow*/
+  }
+  
+  .nav-link:hover {
+    color: #FF5E5B; /*Red*/
+  }
+  
+  body,
+  html {
+    background-color: #1E3040; /*Dark blue*/
+  }
+  
+  .btn-primary {
+    background-color: #0F7173; /*Teal*/
+    color: #FFC93C; /*Yellow*/
+  }
+  
+  .btn-primary:hover {
+    background-color: #FF5E5B; /*Red*/
+  }
+  
+  table tr:nth-child(odd) td {
+    background-color: #6B3074; /*Purple*/
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arial', sans-serif;
+    color: #FFC93C; /*Yellow*/
+    text-shadow: 1px 1px 1px #000;
+  }
+  
+  a {
+    color: #FFC93C; /*Yellow*/
+  }
+  
+  a:hover {
+    color: #FF5E5B; /*Red*/
+  }
+  
+  legend {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Arial', sans-serif;
+    color: #FFC93C; /*Yellow*/
+    text-shadow: 1px 1px 1px #000;
+  }
+  
+  .container {
+    margin-top: 20px;
+  }
+  
+  .container h1 {
+    font-size: 30px;
+    color: #FFC93C; /*Yellow*/
+  }
+  
+  .container p {
+    color: #0F7173; /*Teal*/
+  }
+  
+  .container a {
+    color: #FFC93C; /*Yellow*/
+  }
+  
+  .container a:hover {
+    color: #FF5E5B; /*Red*/
+  }
+  
